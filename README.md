@@ -2,7 +2,7 @@
 - 👀 I’m interested in pediatric radiology
   
 - 😄 Pronouns: ...she/her/hers
-- ⚡ Fun fact: ...
+
 
 <!---
 sdbixby/sdbixby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
